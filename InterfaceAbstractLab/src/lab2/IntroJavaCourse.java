@@ -11,6 +11,7 @@ public class IntroJavaCourse implements SuperClass{
     double credits;
     private String prerequisites;
 
+
     public IntroJavaCourse(String courseName, String courseNumber) {
         this.courseName = courseName;
         this.courseNumber = courseNumber;
